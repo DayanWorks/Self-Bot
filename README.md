@@ -2,13 +2,5 @@
 با این سورس ربات جواب خودتونو هم میده مانند رباتی که روی شایان احمدی هست 
 [channel ma ](telegram.me/pluginsch)
   
-  اموزش
-  
-  در پوشه سید بات
-  seedbot.lua
-  تو لاین 
-  47
-  73
-  دو تا false هست 
-  که باید  بشن
-  true
+  اموزش در کانال ما
+  [amozesh](telegram.me/pluginsch)
