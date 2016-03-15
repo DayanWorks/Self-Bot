@@ -3,4 +3,4 @@
 [channel ma ](telegram.me/pluginsch)
   
   اموزش در کانال ما
-  [amozesh](telegram.me/pluginsch)
+  https://telegram.me/pluginsch
