@@ -1,3 +1,3 @@
 سلف بات
 با این سورس ربات جواب خودتونو هم میده مانند رباتی که روی شایان احمدی هست 
-[telegram.me](telegram.me/pluginsch)
+[channel ma ](telegram.me/pluginsch)
